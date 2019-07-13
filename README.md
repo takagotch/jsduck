@@ -2,7 +2,7 @@
 ---
 https://github.com/senchalabs/jsduck
 
-```
+```sh
 gem install jsduck
 jsduck --builtin-classes --output docs
 jsduck ext-4.2.1/src --output docs
